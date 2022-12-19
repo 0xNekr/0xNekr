@@ -1,8 +1,8 @@
 # 💫 About Me:
-- 🇫🇷 **Freelance** French Web3 developer
-- ⛓️**Blockchain consultant** specialized in Ethereum/EVM - Solidity
-- 🐦**Solidity / Blockchain** popularizer on Twitter
-- 📰**Tech writer** on https://journalducoin.com/
+- 🇫🇷 **Freelance** French Web3 developer.
+- ⛓️**Blockchain consultant** specialized in Ethereum/EVM - Solidity.
+- 🐦**Solidity / Blockchain** popularizer on [Twitter](https://twitter.com/0xNekr).
+- 📰**Tech writer** on [Le Journal Du Coin](https://journalducoin.com/).
 
 
 ## 🌐 Socials:
