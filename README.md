@@ -16,6 +16,6 @@ If you want to **work with me**, send me an email on **0xNekr.dev@gmail.com**.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNekr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/0xNekr) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/0xNekr) 
 
 [<img src="https://i.ibb.co/nnWjNn6/bitmoji-5-removebg-preview.png">](https://twitter.com/0xNekr)
