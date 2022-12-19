@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-If you wish to **work with me**, send me an email on **0xNekr.dev@gmail.com**
+If you want to **work with me**, send me an email on **0xNekr.dev@gmail.com**.
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Nekr#5112) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xNekr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xNekr) 
 
